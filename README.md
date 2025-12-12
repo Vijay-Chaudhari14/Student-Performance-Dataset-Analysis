@@ -1,3 +1,4 @@
+# 📚 Student Performance Dataset Analysis  
 ### Exploratory Data Analysis (EDA) of High School Mathematics Performance  
 *Task 1 – Data Science & Data Analysis with Python Internship*
 
